@@ -1,4 +1,4 @@
-import { Fragment, Suspense, useEffect } from 'react';
+import { Fragment, Suspense } from 'react';
 import "./globalStyle.scss";
 import { SignIn } from './pages/SignIn';
 import { RecoilRoot } from 'recoil';

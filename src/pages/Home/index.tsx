@@ -14,7 +14,7 @@ export function Home() {
 
     return (
         <div className="container-home">
-            <p>{usuario.displayName}</p>
+            <p>Seja bem vindo {usuario.displayName}</p>
             <p>{usuario.email}</p>
         </div>
     )
